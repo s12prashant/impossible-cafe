@@ -669,7 +669,7 @@ const App: React.FC = () => {
 
                 <div>
                     <h5 className="font-mono text-[10px] uppercase tracking-[0.2em] text-black mb-6">Location</h5>
-                    <p>142 Brutalist Ave,<br/>Level 1, Suite 4<br/>Metropolis, NY 10012</p>
+                    <p>Kolkata<br/>72,Street<br/>Central, KOL 700002</p>
                 </div>
 
                 <div>
